@@ -20,4 +20,4 @@ A eclinical web based solution providing healthcare technology solutions of toda
    with the hospitals in their locality. 
    
    Snapshots of UI -
-    
+    https://github.com/rachel-ux/EClinical-Service/issues/1#issue-757658670
