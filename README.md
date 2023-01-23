@@ -8,12 +8,11 @@ While, there are existing systems which function to provide valuable health info
 
 Our objective lies in providing a better, faster, and much efficient system than the previous ones. 
  
- 
- ## Features
+
+
+## :writing_hand: Features of the Application
  ![alt text](https://user-images.githubusercontent.com/63053089/101241215-33a41200-371a-11eb-8acd-b02d6e715e0f.jpg)
  
-Some of our novel features include
-
 ### Symptom-checker
 
 Finding the right diagnosis cannot be achieved just by extracting symptoms and running a machine learning algorithm. The hardest part is asking the right questions, focusing on what is important in the situation, connecting other events, and much more. Hence, our solution utilize a novel approach to ask the right questions and filter through the large dataset in order to provide accurate analysis.
