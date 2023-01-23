@@ -6,9 +6,7 @@ Considering a multispeciality hospital, many people enter and exit the hospital 
 To reduce this type of burdens and to manage the financial, hospital administration and clinical aspects, EClinical-Service came was implemented.We aim to improve healthcare by providing the healthcare technology solutions of today and tomorrow. 
 While, there are existing systems which function to provide valuable health information, and tools for managing one’s health. 
 
-```
-:star: Our objective lies in providing a better, faster, and much efficient system than the previous ones. 
-```
+Our objective lies in providing a better, faster, and much efficient system than the previous ones. 
  
  
  ## Features
